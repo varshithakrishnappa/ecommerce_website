@@ -1,0 +1,8 @@
+.card {
+  margin: 20px auto; /* centers card properly */
+}
+
+.button {
+  text-align: center; /* centers button */
+  margin-top: 20px;
+}
